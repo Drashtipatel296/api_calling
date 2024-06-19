@@ -1,4 +1,4 @@
-## Wallpaper
+# Wallpaper
 
 Using the `async_wallpaper` package in Flutter allows you to set wallpapers asynchronously. This package provides an easy way to interact with wallpapers on both Android and iOS. Below is a step-by-step guide on how to use this package in your Flutter project.
 
@@ -113,7 +113,7 @@ By following these steps, you should be able to set a wallpaper in your Flutter 
 
 
 
-## Pixabay API Calling 
+# Pixabay API Calling 
 
 ### 1. Set Up Your Flutter Project
 If you haven't already set up a Flutter project, you can do so by running:
@@ -244,4 +244,16 @@ flutter run
 ```
 
 This basic example sets up a Flutter project, adds the necessary dependencies, creates a service for making API calls, and integrates the service into a simple widget that fetches and displays data from an API. For a more advanced implementation, you can add error handling, loading indicators, and more complex data structures.
+
+### Screenshots
+
+<img src="https://github.com/Drashtipatel296/api_calling/assets/143180636/941b7a90-e993-4f83-a971-e87f3440ae2e" width=240>
+<img src="https://github.com/Drashtipatel296/api_calling/assets/143180636/14072874-adde-44a2-81d3-0be1d99c212f" width=240>
+
+### Video
+
+https://github.com/Drashtipatel296/api_calling/assets/143180636/36bed796-fdb3-4bdb-a6b7-04e5af0be5e9
+
+
+
 
