@@ -109,11 +109,18 @@ Make sure to check the package documentation for any updates or additional featu
 
 By following these steps, you should be able to set a wallpaper in your Flutter app using the `async_wallpaper` package.
 
+### Screnshots
+<img src="https://github.com/Drashtipatel296/api_calling/assets/143180636/084e0564-9808-4fcd-a4d3-53709b410724" width=240>
+<img src="https://github.com/Drashtipatel296/api_calling/assets/143180636/dc027c91-c1cb-4c32-8ec6-a8756b40a5d2" width=240>
+<img src="https://github.com/Drashtipatel296/api_calling/assets/143180636/8bb23089-1aba-4673-b174-1cb4330a803b" width=240>
+
+### Video
+
+https://github.com/Drashtipatel296/api_calling/assets/143180636/5ed4f5f9-4b98-498a-8836-d552f4765fd8
 
 
+# Pixabay API Calling
 
-
-# Pixabay API Calling 
 
 ### 1. Set Up Your Flutter Project
 If you haven't already set up a Flutter project, you can do so by running:
